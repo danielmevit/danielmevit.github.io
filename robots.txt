@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://danielmevit.github.io/eqho/sitemap.xml
+Sitemap: https://danielmevit.github.io/laydown/sitemap.xml
+Sitemap: https://danielmevit.github.io/ocy/sitemap.xml
+Sitemap: https://danielmevit.github.io/unio/sitemap.xml
+Sitemap: https://danielmevit.github.io/vecto/sitemap.xml
